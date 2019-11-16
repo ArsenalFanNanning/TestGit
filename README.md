@@ -5,5 +5,6 @@ Just For Fun
 [![Badge](https://img.shields.io/wercker/ci/:applicationId/:branch.svg)](https://github.com/ArsenalFanNanning/TestGit)
 
 ## ArsenalFan
-* This is my personal exercise
+* This is my personal exercise.
 * This document has been placed in the public domain. 
+* add new brand and practice it.
