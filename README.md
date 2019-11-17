@@ -1,7 +1,7 @@
 # TestGit
 Just for fun
 
-[![LICENSE](https://img.shields.io/aur/license/:packageName.svg)](https://github.com/ArsenalFanNanning/TestGit/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/ArsenalFanNanning/TestGit)](https://github.com/ArsenalFanNanning/TestGit/blob/master/LICENSE)
 [![Badge](https://img.shields.io/wercker/ci/:applicationId/:branch.svg)](https://github.com/ArsenalFanNanning/TestGit)
 
 ## ArsenalFan
