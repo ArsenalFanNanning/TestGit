@@ -1,5 +1,5 @@
 # TestGit
-Just For Fun
+Just for fun
 
 [![LICENSE](https://img.shields.io/aur/license/:packageName.svg)](https://github.com/ArsenalFanNanning/TestGit/blob/master/LICENSE)
 [![Badge](https://img.shields.io/wercker/ci/:applicationId/:branch.svg)](https://github.com/ArsenalFanNanning/TestGit)
@@ -7,4 +7,5 @@ Just For Fun
 ## ArsenalFan
 * This is my personal exercise.
 * This document has been placed in the public domain. 
-* add new brand and practice it.
+* Add new brand and practice it.
+* Test update readme.md
