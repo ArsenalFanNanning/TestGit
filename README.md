@@ -10,4 +10,5 @@ Hello Git
 * This is my personal exercise.
 * This document has been placed in the public domain. 
 * Add new brand and practice it.
-* Test update readme.md
+* Test update readme.md.
+* Practice some git command.
